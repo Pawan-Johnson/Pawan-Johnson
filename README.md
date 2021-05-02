@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pawan-Johnson
+## 👋 Hi, I’m @Pawan-Johnson
 - Currently Pursuing my Physics Degree
 
 <!---
